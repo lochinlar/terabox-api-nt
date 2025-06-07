@@ -14,6 +14,11 @@ This project is an open-source tool to help you access and stream files from Ter
 *   Python 3.6+
 *   pip
 
+
+
+### How To Use In Api Type
+
+```https://terabox-open-source.vercel.app/generate_file?url={teraboxlink}```
 ### Installation 🛠️
 
 1.  Clone the repository:
