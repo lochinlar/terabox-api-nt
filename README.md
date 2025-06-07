@@ -16,7 +16,7 @@ This project is an open-source tool to help you access and stream files from Ter
 
 
 
-### How To Use In Api Type
+### How To Use
 
 ```https://terabox-open-source.vercel.app/generate_file?url={teraboxlink}```
 ### Installation 🛠️
